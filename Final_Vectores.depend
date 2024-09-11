@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1604634824 source:d:\angel\documents\ingeniería en sitemas de información y ciencias de la computación\semestre ii\algoritmos b\final_vectores\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
